@@ -65,6 +65,8 @@ If you get Scurry through the App Store or TestFlight, Apple handles the downloa
 
 If you download Scurry from another site, that site's own privacy policy applies to the download.
 
+The **Privacy Policy** link in Scurry's About window opens in your web browser. The privacy policy of the site hosting the page applies to that visit.
+
 ## Children
 
 Scurry doesn't collect personal information from anyone, including children.
